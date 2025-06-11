@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Basil (he/him)
 
-<!--
-**thebasilisk/thebasilisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer currently working primarily on personal projects in Rust. Most recently I've been learning graphics programming, but also have had a great time building in game engines, blockchain, native macOS, the web, and more with a variety of languages.
 
-Here are some ideas to get you started:
+Recently I've:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Completed a batch at the [Recurse Center](https://www.recurse.com)
+- Worked on various [games](https://github.com/thebasilisk/mirror-maze)
+- Started building a [text editor](https://github.com/thebasilisk/txt-rs)
+
+Future project ideas:
+
+- Classic Nintendo console emulator in Rust
+- Full 3D renderer for various games
+- Generative shader art projects
+- Rust Crate for simple macOS app developement
