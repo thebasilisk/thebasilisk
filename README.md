@@ -1,6 +1,6 @@
 👋 Hi, I'm Basil (he/him)
 
-I'm a software engineer currently working primarily on personal projects in Rust. Most recently I've been learning graphics programming, but also have had a great time building in game engines, blockchain, native macOS, the web, and more with a variety of languages.
+I'm a software engineer currently working primarily on personal projects in Rust. I've been learning GPU programming recently, but also have had a great time working with game engines, blockchain, native macOS, the web, machine learning, music/audio processing and more using a variety of languages.
 
 Recently I've:
 
