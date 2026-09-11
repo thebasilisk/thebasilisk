@@ -1,16 +1,11 @@
-👋 Hi, I'm Basil (he/him)
+# 👋 Hi, I'm Basil (he/him)
 
-I'm a software engineer currently working primarily on personal projects in Rust. I've been learning GPU programming recently, but also have had a great time working with game engines, blockchain, native macOS, the web, machine learning, music/audio processing and more using a variety of languages.
+I'm a software engineer based in Brooklyn, working on full-stack development and ML infrastructure (inference and embedding pipelines, vector search, and agentic systems). Have had the privilege to work across the stack in both TypeScript and Python, as well as infrastructure work with K8s, GCP, and Terraform.
 
-Recently I've:
+Outside of that I mostly write Rust. I've had deep interest in GPU kernels and graphics programming for a while now, and have also had a great time with game engines, native macOS, machine learning, generative art, and much more!
 
-- Completed a batch at the [Recurse Center](https://www.recurse.com)
-- Worked on various [games](https://github.com/thebasilisk/mirror-maze)
-- Started building a [text editor](https://github.com/thebasilisk/txt-rs)
+Some things I've been up to:
 
-Future project ideas:
-
-- Classic Nintendo console emulator in Rust
-- Full 3D renderer for various games
-- Generative shader art projects
-- Rust Crate for simple macOS app developement
+* Building real-time live video analysis at [Zooo](https://www.zooo.ooo/)
+* A batch at the [Recurse Center](https://www.recurse.com/)
+* Working on various [games from scratch](https://github.com/thebasilisk/mirror-maze)
